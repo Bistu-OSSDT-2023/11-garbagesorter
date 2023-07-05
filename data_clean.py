@@ -46,4 +46,4 @@ def data_clean(src_folder, english_name):
 
 
 if __name__ == '__main__':
-    data_clean(src_folder="C:/Users/20356/Desktop/work/garbage/2023_pytorch110_classification_42-master/garbage_data_split/test/Kitchen", english_name="garbage")
+    data_clean(src_folder="D:/upppppppppp/cls/cls_torch_tem/data/向日葵", english_name="sunflowers")
