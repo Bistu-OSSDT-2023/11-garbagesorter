@@ -1,0 +1,10 @@
+如何安装和使用这款程序
+打开压缩包中的INSTALL.md文档，里面有详细的安装和配置教程
+
+
+为何Pycharm运行时显示“”
+这款程序是基于python语言实现的，您还没有配置pyhhon的语言环境，根据INSTALL.md文档中配置环境
+
+
+为何运行时报错，说pytorch版本不匹配
+去pytorch官方下载：自己对应cuda版本的pytorch，如果没有GPU 下载cpu也可
