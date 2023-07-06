@@ -2,7 +2,7 @@
 打开压缩包中的INSTALL.md文档，里面有详细的安装和配置教程
 
 
-为何Pycharm运行时显示“”
+为何Pycharm运行时显示“未为项目配置python解释器”
 这款程序是基于python语言实现的，您还没有配置pyhhon的语言环境，根据INSTALL.md文档中配置环境
 
 
